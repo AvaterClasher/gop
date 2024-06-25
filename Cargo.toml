@@ -1,6 +1,8 @@
 [package]
 name = "gop"
 version = "0.1.0"
+authors = ["Soumyadip Moni <avater.clasher@gmail.com>"]
 edition = "2021"
 
 [dependencies]
+regex = "1.10.5"
