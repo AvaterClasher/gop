@@ -58,3 +58,4 @@ fn main() {
 
     run("opera", url.as_str());
 }
+
